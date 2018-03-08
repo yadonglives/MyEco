@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: myeco-plugin-springcloud-server
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.dmw
+Build-Jdk: 1.7.0_80
+Built-By: cui
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://maven.apache.org
+
